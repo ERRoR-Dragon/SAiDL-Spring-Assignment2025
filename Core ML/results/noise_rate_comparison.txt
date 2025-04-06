@@ -1,0 +1,4 @@
+Noise Rate  CE Accuracy  NCE Accuracy  APL Accuracy
+0.3         66.07        73.98         74.0
+0.5         54.37        68.43         67.83
+0.7         37.77        53.17         49.95
